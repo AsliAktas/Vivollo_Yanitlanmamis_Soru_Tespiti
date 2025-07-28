@@ -26,7 +26,7 @@
 - **notebooks/**  
   - `01_eda.ipynb` – dağılımlar, trend, simülasyon görselleri  
 - **outputs/** – tüm CSV/Excel çıktı dosyaları ve PNG grafikleri  
-- **reports/** – (önerilen) summary PDF veya PPT slaytları  
+- **reports/** – PDF veya PPT slaytları  
 
 ## 🚀 Kurulum & Çalıştırma
 
