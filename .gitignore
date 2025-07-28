@@ -1,0 +1,22 @@
+# Ignore heavy and intermediates
+venv/
+data/
+models/
+__pycache__/
+*.pyc
+*.parquet
+
+# Track only desired outputs
+!outputs/
+outputs/*
+!outputs/vivollo_final.csv
+!outputs/simulation_result.csv
+!outputs/confusion_matrix_validation.png
+
+# Track code & docs
+!src/
+!src/*.py
+!notebooks/
+!notebooks/*.ipynb
+!README.md
+!requirements.txt

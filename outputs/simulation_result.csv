@@ -1,0 +1,5 @@
+Scenario,Error rate (%)
+Original slot,80.64
+Thresh=2,39.21
+Model fallback,41.4
+API retry,0.36
