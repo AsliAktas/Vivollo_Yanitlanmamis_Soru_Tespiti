@@ -70,10 +70,4 @@ Yorum: Slot‑filling eşiğini 2’ye düşürmek ve API retry mekanizması en 
 
 Karışıklık matrisi script ile outputs/confusion_matrix_validation.png olarak kaydedildi.
 
-##  ⚙️ Limitations & Next Steps
-Veri kalitesi: Yeni kategoriler eklenebilir, neg / pos dengesizliği optimize edilebilir.
-
-Model geliştirme: BERT fine‑tuning veya ensembel yöntemleri denenebilir.
-
-Demo: Senior sunum slaytları reports/summary.pdf içinde yer alacak.
 
